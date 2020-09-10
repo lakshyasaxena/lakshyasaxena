@@ -1,7 +1,7 @@
 ## Hi Viewer 👋
 ### Welcome To Lakshya's Hut :mailbox:.
 
-Hi, I'm Lakshya Saxena, a Competitive Programmer from India. I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy doing photography :camera: and video editing :movie_camera:.
+I'm Lakshya Saxena, a Competitive Programmer from India. I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy doing photography :camera: and video editing :movie_camera:.
 
 Talking about Personal Stuffs:
 - 🔭 I’m currently working on improving my techskill;
