@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi Viewer 👋
+### Welcome To Lakshya's Hut :mailbox:.
 
-<!--
-**lakshyasaxena/lakshyasaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Lakshya Saxena, a Competitive Programmer from India. I'm a tech enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy doing photography :camera: and video editing :movie_camera:.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Talking about Personal Stuffs:
+- 🔭 I’m currently working on improving my techskill;
+- 🌱 I’m currently learning JS;
+- 💬 Ask me about anything, I am ready to help.
+- 📫 How to reach me: lakshya000745@gmail.com
+- ⚡ Fun fact:  A programmer is not a PC repairman;
+- Resume https://drive.google.com/file/d/10q8QBHGSlI2u4Jb6A7WPCP9GBiUXkLk_/view?usp=sharing
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
